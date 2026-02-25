@@ -1,7 +1,4 @@
 package methods;
-
-import java.util.Scanner;
-
 public class Numbers {
     static void swap(int arr[]){
          int temp=arr[0];
