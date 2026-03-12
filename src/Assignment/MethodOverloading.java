@@ -1,4 +1,4 @@
-package Assignment_01;
+package Assignment;
 
 public class MethodOverloading {
         static int add(int a, int b) {

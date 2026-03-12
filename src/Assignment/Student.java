@@ -1,4 +1,4 @@
-package Assignment_01;
+package Assignment;
 
 public class Student {
         int usn;

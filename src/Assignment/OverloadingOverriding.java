@@ -1,4 +1,4 @@
-package Assignment_01;
+package Assignment;
 
     class Addition{
         int sum(int a , int b){

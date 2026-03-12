@@ -1,4 +1,4 @@
-package Assignment_01;
+package Assignment;
 import java.util.Scanner;
 public class Palindrome {
         public static boolean isPalindrome(String str) {

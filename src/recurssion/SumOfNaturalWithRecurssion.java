@@ -12,7 +12,7 @@ public class SumOfNaturalWithRecurssion {
     public static void main(String[] args) {
         int num =10;
         int result = sum(num);
-        System.out.println("sum is:"+sum);
+        System.out.println("sum is:"+ num);
     }
 }
 // eg : let num=5

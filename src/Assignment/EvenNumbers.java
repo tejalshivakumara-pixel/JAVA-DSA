@@ -1,4 +1,4 @@
-package Assignment_01;
+package Assignment;
 public class EvenNumbers {
     public static void main(String[] args) {
         int i=1;
